@@ -1,0 +1,14 @@
+C:\Users\vitor\source\repos\teste\teste\bin\Debug\teste.exe.config
+C:\Users\vitor\source\repos\teste\teste\bin\Debug\teste.exe
+C:\Users\vitor\source\repos\teste\teste\bin\Debug\teste.pdb
+C:\Users\vitor\source\repos\teste\teste\obj\Debug\teste.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\teste\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\teste\teste\obj\Debug\teste.exe
+C:\Users\vitor\source\repos\teste\teste\obj\Debug\teste.pdb
+C:\Users\vitor\source\repos\wfaQuestao2\teste\bin\Debug\teste.exe.config
+C:\Users\vitor\source\repos\wfaQuestao2\teste\bin\Debug\teste.exe
+C:\Users\vitor\source\repos\wfaQuestao2\teste\bin\Debug\teste.pdb
+C:\Users\vitor\source\repos\wfaQuestao2\teste\obj\Debug\teste.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\wfaQuestao2\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\wfaQuestao2\teste\obj\Debug\teste.exe
+C:\Users\vitor\source\repos\wfaQuestao2\teste\obj\Debug\teste.pdb
